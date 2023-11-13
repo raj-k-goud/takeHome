@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Add Custom Styles here-->
+
+    <style name="InputStyle" parent="Widget.Design.TextInputLayout">
+        <item name="hintTextAppearance">@style/HintStyle</item>
+    </style>
+
+    <style name="HintStyle" parent="TextAppearance.Design.Hint">
+        <item name="android:textColor">@color/pink</item>
+    </style>
+
+
+</resources>

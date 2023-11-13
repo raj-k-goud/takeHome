@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TakeHome" parent="Theme.Material3.Light.NoActionBar">
+        <item name="materialButtonStyle">@style/AppButton</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="Theme.TakeHome" parent="Base.Theme.TakeHome">
+    </style>
+
+    <style name="AppButton" parent="Widget.MaterialComponents.Button">
+         <item name="backgroundTint">@color/grey</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TakeHome</string>
+    <string name="first_fragment_label">Take Home</string>
+    <string name="second_fragment_label">Details : </string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="details">Name: %1$s! \n\nDescription:  %2$s \n\nUpdated At:  %3$s \n\nStargazers Count %4$d \n\nForks %5$d</string>
+    <string name="hint">Enter a Github User Id</string>
+    <string name="lorem_ipsum">lorem_ipsum test text...</string>
+    <string name="loading">Loading...!!!</string>
+    <string name="error_code">Server Error code: %1$s!</string>
+
+</resources>
